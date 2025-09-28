@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Code (@debugging17)  
+# 👋 Hi, I’m Cephas Kudalor (@debugging17)  
 
-💻 **Aspiring Software Engineer | Frontend Specialist | AWS Solutions Architect | ALX SE Program**  
+💻 **Aspiring Software Engineer | Frontend Specialist | AWS Solutions Architect | Multimedia Designer |  ALX SE Program**  
 Passionate about solving real-world problems with code, with a focus on **regional integration in Sub-Saharan Africa** through technology-driven solutions.  
 
 ---
