@@ -27,7 +27,8 @@ Passionate about solving real-world problems with code, with a focus on **region
 
 **Backend & APIs:**  
 `Express` | `GraphQL` | `REST APIs` | `PostgreSQL` | `MongoDB`  | `PHP` | `Apollo-GraphQL` 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 **Cloud & DevOps:**  
 `AWS (EC2, S3, Lambda, DynamoDB)` | `Docker` | `CI/CD Pipelines`  
@@ -51,13 +52,7 @@ Passionate about solving real-world problems with code, with a focus on **region
 > Full-stack clone of Airbnb with modern UI/UX.  
 - 🛠 **Next.js, TailwindCSS, GraphQL, AWS S3**  
 - 🎯 Authentication + dynamic listings  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debugging17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugging17&layout=compact&theme=radical)  
-
+ 
 ---
 
 ## 🌍 Connect with Me  
