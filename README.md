@@ -1,7 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I’m Code (@debugging17)  
 
-# 💫 About Me:
-🔭 I’m currently working on **Nexus Feed**, a dynamic social media feed web app (Next.js, TailwindCSS, GraphQL, PWA).  <br><br>👯 I’m looking to collaborate on **frontend projects with real-time features** (social apps, dashboards, or e-commerce).  <br><br>🤝 I’m looking for help with **optimizing GraphQL APIs and backend integration** for scalable applications.  <br><br>🌱 I’m currently learning **System Design, Advanced React (Next.js), GraphQL, and API integration** as part of the ALX ProDev Frontend Engineering program.  <br><br>💬 Ask me about **frontend development, UI/UX best practices, TailwindCSS tricks, or building PWAs**.  <br><br>⚡ Fun fact: *I love turning complex system designs into simple, user-friendly interfaces — and I believe great design tells a story as much as code does.*  <br>
+💻 **Aspiring Software Engineer | Frontend Specialist | AWS Solutions Architect | ALX SE Program**  
+Passionate about solving real-world problems with code, with a focus on **regional integration in Sub-Saharan Africa** through technology-driven solutions.  
+
+---
+
+## 🚀 About Me  
+- 🔭 I’m currently working on **Nexus Feed** – a platform to enhance regional integration.  
+- 🤝 I’m looking to collaborate on **open-source frontend projects** (React, Next.js, Tailwind).  
+- 🆘 I’m looking for help with **scalable backend architecture & DevOps (CI/CD, containerization)**.  
+- 🌱 I’m currently learning **GraphQL, Next.js 15, and advanced AWS services**.  
+- ☁️ Certified **AWS Solutions Architect**, passionate about cloud-native applications.  
+- 💬 Ask me about **frontend development, cloud solutions, and API integrations**.  
+- ⚡ Fun fact: I enjoy blending **design patterns with cultural storytelling** (Adinkra-inspired projects).  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages & Tools:**  
+`JavaScript` | `TypeScript` | `Python` | `HTML` | `CSS` | `Node.js`  
+
+**Frontend:**  
+`React.js` | `Next.js` | `TailwindCSS` | `Redux`  
+
+**Backend & APIs:**  
+`Express` | `GraphQL` | `REST APIs` | `PostgreSQL` | `MongoDB`  
+
+**Cloud & DevOps:**  
+`AWS (EC2, S3, Lambda, DynamoDB)` | `Docker` | `CI/CD Pipelines`  
+
+**Other Tools:**  
+`Git` | `GitHub` | `Figma`  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 [Nexus Feed](#)  
+> A regional integration platform for Sub-Saharan Africa, connecting communities through trade, policy, and infrastructure.  
+- 🛠 Built with **Next.js, GraphQL, Tailwind, AWS Lambda**  
+- 🌍 Inspired by real-world challenges in **regional integration**  
+- 🚀 [Live Demo](#) | [Repository](#)  
+
+### 🔹 [Airbnb Clone](https://github.com/debugging17/airbnb-clone)  
+> Full-stack clone of Airbnb with modern UI/UX.  
+- 🛠 **Next.js, TailwindCSS, GraphQL, AWS S3**  
+- 🎯 Authentication + dynamic listings  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debugging17&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugging17&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Connect with Me  
+🔗 [Portfolio Website](#)  
+💼 [LinkedIn](#)  
+📧 [Email](#)  
+
 
 
 ## 🌐 Socials:
